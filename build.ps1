@@ -10,5 +10,5 @@ $dateHeure = Get-Date
 # Afficher la date et l'heure
 Write-Host "Heure de l'execution : $dateHeure"
 
-g++ src\main.cpp -o bin\realese\prog.exe
+g++ src\main.cpp lib\Horloge\horloge.cpp -o -Wall bin\realese\prog.exe
 

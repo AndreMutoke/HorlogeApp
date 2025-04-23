@@ -10,3 +10,6 @@ Ce projet a été supervisé par Mr André MUTOKE. Le réalisation et la mise au
 1. Adora
 2. Sonia MUKING
 3. Ehud
+
+## Repartition des taches
+### Approche Orienté objets
