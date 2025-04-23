@@ -7,6 +7,6 @@ Nous devons concevoir un outil fonctionnant en console et devant etre utilisé s
 
 ## Contributeurs 
 Ce projet a été supervisé par Mr André MUTOKE. Le réalisation et la mise au point du projet a été réalisé par :
-- Adora
-- Sonia MUKING
-- Ehud
+1. Adora
+2. Sonia MUKING
+3. Ehud
