@@ -1,7 +1,7 @@
 #include <iostream>
 
 #ifndef Arduino_h
-    #include "..\lib\Horloge\horloge.h"
+    #include "../lib/Horloge/horloge.h"
     using namespace std;
 
     int main()
